@@ -1,9 +1,9 @@
 {
-    "name": "qixinyun/credit-frontend-news-sdk"
+    "name": "qixinyun/credit-frontend-news-sdk",
     "keywords": ["credit", "news", "sdk"],
     "description" : "credit news sdk",
     "tyep": "libaray",
-    "license" "MIT",
+    "license": "MIT",
     "authors": [
         {
             "name": "twinkle",
